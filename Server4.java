@@ -2,7 +2,7 @@ package com.assignment.soap;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
-//Author Syed Taqi Raza(100887193) - SOAP Assignment 3 - NET4001
+//Author Syed Taqi Raza - SOAP Assignment 3 - NET4001
 
 public class Server4 extends UnicastRemoteObject implements ServiceB {
     /**
