@@ -1,7 +1,7 @@
 package com.assignment.soap;
 
 import javax.xml.ws.Endpoint;
-//Author Syed Taqi Raza(100887193) - SOAP Assignment 3 - NET4001
+//Author Syed Taqi Raza - SOAP Assignment 3 - NET4001
 
 //Endpoint publisher
 public class ApiGatewayPublisher {
