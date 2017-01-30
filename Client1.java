@@ -5,7 +5,7 @@ import java.net.URL;
 
 import javax.xml.namespace.QName;
 import javax.xml.ws.Service;
-//Author Syed Taqi Raza(100887193) - SOAP Assignment 3 - NET4001
+//Author Syed Taqi Raza - SOAP Assignment 3 - NET4001
 
 public class Client1 {
 
