@@ -1,4 +1,4 @@
-Author: Syed Taqi Raza (100887193) - Net4001- SOAP Assignment 3
+Author: Syed Taqi Raza - Net4001- SOAP Assignment 3
 
 Note In your workspace. make folders : com >> assignment >> soap 
 
